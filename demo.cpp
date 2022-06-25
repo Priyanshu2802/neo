@@ -49,7 +49,7 @@ bool perfectSquare(ld x)
 /*___________________*workplace*_______________________*/
 void solve()
 {
-    cout << "hello github" << endl;
+    cout << "hello github from github" << endl;
 }
 int main()
 {
